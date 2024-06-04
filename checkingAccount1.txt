@@ -1,0 +1,3 @@
+Date,Type,Amount,Status
+Transaction{type=DEPOSIT, amount=500.0, status=SUCCESS, date=2024-06-04}
+Transaction{type=DEPOSIT, amount=300.0, status=SUCCESS, date=2024-06-04}
